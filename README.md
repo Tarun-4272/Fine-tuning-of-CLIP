@@ -63,7 +63,7 @@ After training, the model's performance is assessed based on the average trainin
 
 ## Files in the Repository
 
-- `train.py`: The main script that includes all the steps required to fine-tune the CLIP model.
+- `Fine_tuning_of_CLIP.ipynb`: The main script that includes all the steps required to fine-tune the CLIP model.
 - `best_model.pt`: The saved state of the best-performing model during training.
 - `README.md`: This documentation file.
 
