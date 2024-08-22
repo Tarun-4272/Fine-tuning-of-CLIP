@@ -27,11 +27,5 @@ To set up the project, ensure that you have the following installed:
 - torchvision for data augmentation
 - tqdm for progress tracking
 
-Install the required packages using pip:
-
-```bash
-pip install transformers datasets torch torchvision tqdm
----
-sdcvgbnm
 
 
